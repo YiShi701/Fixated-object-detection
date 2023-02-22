@@ -1,5 +1,4 @@
-A part of ETFOD is now available by Baidu Netdisk:
-Link：https://pan.baidu.com/s/1OHL_LW0mcP9x9y4hBXWgRg 
+A part of ETFOD is now available by Baidu Netdisk with Link：https://pan.baidu.com/s/1OHL_LW0mcP9x9y4hBXWgRg 
 Password：yef6
 
 The rest of ETFOD and the code will be published.
