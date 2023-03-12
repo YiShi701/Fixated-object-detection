@@ -5,8 +5,10 @@ A part of ETFOD is now available by Baidu Netdisk with link：https://pan.baidu.
 
 The rest of ETFOD will be published.
 
+## Detection Demo
+
+Detection demos are presented by 10fps_cat4.mp4 and 10fps_cat5.mp4.
 
 ## The code
 
-The code of FOD-Net and LFOD-Net are availabel by 
-Detection demos are presented by 10fps_cat4.mp4 and 10fps_cat5.mp4.
+The code of FOD-Net and LFOD-Net are availabel by https://github.com/YiShi701/Fixated-object-detection/blob/main/FOD_NET.zip
