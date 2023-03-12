@@ -7,7 +7,7 @@ The rest of ETFOD will be published.
 
 ## Detection Demo
 
-Detection demos are presented by 10fps_cat4.mp4 and 10fps_cat5.mp4.
+Detection demos are presented by 10fps_cat4.mp4(https://github.com/YiShi701/Fixated-object-detection/blob/main/10fps_cat4.mp4) and 10fps_cat5.mp4(https://github.com/YiShi701/Fixated-object-detection/blob/main/10fps_cat5.mp4).
 
 ## The code
 
