@@ -12,3 +12,8 @@ Detection demos are presented by 10fps_cat4.mp4 and 10fps_cat5.mp4.
 ## The code
 
 The code of FOD-Net and LFOD-Net are availabel by https://github.com/YiShi701/Fixated-object-detection/blob/main/FOD_NET.zip
+
+## Install
+
+Download and unzip the project https://github.com/YiShi701/Fixated-object-detection/blob/main/FOD_NET.zip and install [requirements.txt] in a
+[**Python>=3.7.0**](https://www.python.org/) environment, including [**PyTorch>=1.7**](https://pytorch.org/get-started/locally/). 
