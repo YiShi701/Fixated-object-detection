@@ -19,10 +19,10 @@ Download and unzip the project https://github.com/YiShi701/Fixated-object-detect
 [**Python>=3.7.0**](https://www.python.org/) environment, including [**PyTorch>=1.7**](https://pytorch.org/get-started/locally/). More details are refer to https://github.com/ultralytics/yolov5
 
 
-## Acknowledgements
-
-https://github.com/ultralytics/yolov5
-
 ## License
 
 ETFOD dataset and code can be used for scientific research.
+
+## Acknowledgements
+
+https://github.com/ultralytics/yolov5
