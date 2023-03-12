@@ -22,3 +22,7 @@ Download and unzip the project https://github.com/YiShi701/Fixated-object-detect
 ## Acknowledgements
 
 https://github.com/ultralytics/yolov5
+
+## License
+
+ETFOD dataset and code can be used for scientific research.
