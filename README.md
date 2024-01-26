@@ -1,9 +1,8 @@
 # FOD-Net
 
 ## ETFOD Dataset
-A part of ETFOD is now available by Baidu Netdisk with link：https://pan.baidu.com/s/1OHL_LW0mcP9x9y4hBXWgRg . Password：yef6
-
-The rest of ETFOD will be published.
+ETFOD is now available by Baidu Netdisk with link：https://pan.baidu.com/s/1kaqawV1UCJNViGNTSvAX3A 
+Password：dcdr 
 
 ## Detection Demo
 
