@@ -4,6 +4,9 @@
 ETFOD is now available by Baidu Netdisk with link：https://pan.baidu.com/s/1kaqawV1UCJNViGNTSvAX3A 
 Password：dcdr 
 
+ETFOD with lots of small objects is now available by Baidu Netdisk with link：https://pan.baidu.com/s/1kZGlnnZtTquiurJP397GYg?pwd=sy11 
+Password：sy11
+
 ## Detection Demo
 
 Detection demos are presented by downloading 10fps_cat4.mp4 [https://github.com/YiShi701/Fixated-object-detection/blob/main/10fps_cat4.mp4] and 10fps_cat5.mp4 [https://github.com/YiShi701/Fixated-object-detection/blob/main/10fps_cat5.mp4].
